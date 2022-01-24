@@ -56,7 +56,7 @@
 ## Some Important NGINX Commands
 
     |Command        |Description                                        |
-    | :----------:  |             :--------------------------:          |
+    |:-------------:|:-------------------------------------------------:|
     | nginx -h      | Shows the NGINX help menu                         |
     | nginx -v      | Shows the NGINX version                           |
     | nginx -t      | Tests the NGINX configuration                     |
